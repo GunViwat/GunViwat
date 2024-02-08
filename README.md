@@ -38,7 +38,4 @@ Other Programme: <br>
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=GunViwat&icon=3&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
