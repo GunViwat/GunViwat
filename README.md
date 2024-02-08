@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋‍♂️ Hi, I'm Viwat:
 I'm currently a student at University of Bath studying Computer Science <br>
 
 
