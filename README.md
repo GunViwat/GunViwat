@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student at University of Bath, <br>
+I'm currently a student at University of Bath studying Computer Science <br>
 
 
 ## 🌐 Socials:
